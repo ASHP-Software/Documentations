@@ -1,6 +1,6 @@
 # PMI API Documentation
 ---
-ASHP's PMI API is 
+ASHP's PMI API delivers drug information content in htm format using the globally accepted semantic clinical drug form (SCDF) RXNorm concept as indentifiers. 
 
 ## Drug shortage routes
 ---
