@@ -2,23 +2,24 @@
 ---
 ASHP's PMI API delivers drug information content in htm format using the globally accepted semantic clinical drug form (SCDF) RXNorm concept as indentifiers. 
 
-## Drug shortage routes
+The API uses Google's [Firebase](https://firebase.google.com/) platform to deliver json data as well as files to you via RESTful http requests. We also leverage Google's Firebase platform to deliver lightning fast speed and flexible SDKs that cater to a variety of programming languages in functional reactive programming patterns.
+
+You can read more about Firebase developer documentations [here](https://firebase.google.com/docs).
+
+## PMI Index
 ---
 
-Keep in mind that if you are making a REST API call, you need to append .json to the end of the route. You can find some sample API calls at the end of this document.
+*Keep in mind that if you are making a REST API call, you need to append .json to the end of the route. You can find some sample API calls at the end of this document.*
 
-* **/drugShortages** - This route holds all the latest version of each drug shortage returned as an array. The ID / key for each shortage object is the same as its index in the array. Some entries may be null, which means there is no shortage with that ID.
-  * **/drugShortages/{key}/latest** - This route holds an individual drug shortage. You can assume that it will always be the latest version of the data.
+* **/PMI** - This route holds all the latest version of SCDF RXNorm mapping to ASHP's PMI data. The index of drugs are keyed by SCDF identifier.
 
 
-* **/pastDrugShortages** - This route holds all the previous version of each drug shortage. Each time an editor makes a change to a drug shortage bulletin in their local content management system and commit the changes, a new versiosn of a drug shortage object is created and pushed to Firebase.
-  * **/pastDrugShortages/{key}/{versionKey}** - This route holds a unique version of a drug shortages. The key will always be an Int value. A higher value indicates a more recent revision of the shortage data.
-  
 ## Objects
 ---
-### Drug Shortage
+### PMI
 A drug shortage bulletin that holds all relevant information.
 * **affectedProduct** - List of prodcuts affected by this drug shortage.
+  * **UN** - This is ASHP's PMI unique identifier. You can use this identifier to fetch the monograph file from Firebase Storage.
   * **discontinued**: Bool - Whether this product has been discontinued.
   * **NDC**: String - National Drug Code identifier for this product. 
   * **RXCUI**: String - RXCUI identifier for this product
