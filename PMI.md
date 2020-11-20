@@ -6,6 +6,8 @@ The API uses Google's [Firebase](https://firebase.google.com/) platform to deliv
 
 You can read more about Firebase developer documentations [here](https://firebase.google.com/docs).
 
+Please contact us for API keys to access this data.
+
 ## Routes
 ---
 You can build your https request using our Firebase Domain then append it with a route. e.g. https://ahfs-pmi.firebaseio.com/PMI
@@ -23,25 +25,22 @@ A drug shortage bulletin that holds all relevant information.
   * **title**: String - This is the title of the PMI monograph for the SCDF concept.
   * **updatedAt**: Int This is the server time stamp when this record was last updated/written to Firebase. This integer represents the Linux Epoch time in milliseconds.
   
-Sample JSON for PMI/10760:
-`{
+Sample response JSON for **PMI/10760**  
+You can obtain the above data via https://ahfs-pmi.firebaseio.com/PMI/10760.json?auth={apiKey}&print=pretty
+```
+{
   "UN" : "601122",
   "description" : [ "triamcinolone Oral Paste" ],
   "title" : "Triamcinolone",
   "updatedAt" : 1604973524220
-}`
-
-
-
+}
 ```
-## Sample API calls
+
+## Monograph Files
 ---
-**To get all active shortages:**
+The PMI monograph files are in .htm format. They are located in Cloud Firebase's Storage platform. You can read about Firebase Cloud Storage documentation [here](https://firebase.google.com/docs/storage).
 
-/drugShortages.json?print=pretty&orderBy="/latest/shortageStatus"&equalTo="Active"&auth={apiKey}
+### Firebase Cloud Storage Buckets
+* gs://ashp-pmi This is the bucket where all the monographs are stored. For example, if you have SCDF identifier: 601122, you can use the database API to find the ASHP UN identifer "601122" To get to the monograph file, you need to prepend the UN with the character 'a' to the bucket URL: `gs://ashp-pmi/a601122.htm`
 
-**To get shortages since a date (Linux Epoch format in milliseconds):**
-
-/drugShortages.json?auth={apiKey}&print=pretty&orderBy="latest/updatedAt"&startAt=1556668800000
-
-[Full API usage documentation](https://firebase.google.com/docs/reference/rest/database)
+You can use any of the Firebase SDKs to access the file.
