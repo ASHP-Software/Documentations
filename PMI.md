@@ -2,11 +2,9 @@
 ---
 ASHP's PMI API delivers drug information content in htm format using the globally accepted semantic clinical drug form (SCDF) RXNorm concept as indentifiers. 
 
-The API uses Google's [Firebase](https://firebase.google.com/) platform to deliver json data as well as files to you via Firebase SDKs. We also leverage Google's Firebase platform to deliver lightning fast speed and flexible SDKs that cater to a variety of programming languages in functional reactive programming patterns.
+The API uses Google's [Firebase](https://firebase.google.com/) platform to deliver json data as well as files to you via Firebase SDKs. We also leverage Google's Firebase platform to deliver lightning fast speed and flexible SDKs that cater to a variety of programming languages in functional reactive programming patterns. You can read more about Firebase developer documentations [here](https://firebase.google.com/docs). 
 
 If you do not already have an API key, contact [us](softwaresupport@ashp.org) to get the process started.
-
-You can read more about Firebase developer documentations [here](https://firebase.google.com/docs). 
 
 **We ask that you only fetch data from this API to sync with your local database. Please do not directly integrate in your user facing applications.**
 
