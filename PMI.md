@@ -21,7 +21,7 @@ You can build your https request using our Firebase Domain then append it with a
 ### PMI
 The PMI object represents a mapping of SCDF to AHFS unique identifiers as well as the title and description of the PMI monograph file.
   * **UN**: String - This is ASHP's PMI unique identifier. You can use this identifier to fetch the monograph file from Firebase Storage.
-  * **description**: [String] - This is the description of the PMI monograph for the SCDF concept. e.g. For SCDF key: 10760, the description is: "triamcinolone Oral Paste"
+  * **description**: [String] - This is the description of the PMI monograph for the SCDF concept. e.g. For SCDF key: 10760, the description is: ["triamcinolone Oral Paste"]
   * **title**: String - This is the title of the PMI monograph for the SCDF concept.
   * **updatedAt**: Int - This is the server time stamp when this record was last updated/written to Firebase. This integer represents the Linux Epoch time in milliseconds.
   
