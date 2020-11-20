@@ -38,7 +38,7 @@ You can obtain the above data via https://ahfs-pmi.firebaseio.com/PMI/10760.json
 
 ## Monograph Files
 ---
-The PMI monograph files are in .htm format. They are located in Cloud Firebase's Storage platform. You can read about Firebase Cloud Storage documentation [here](https://firebase.google.com/docs/storage).
+The PMI monograph files are in .htm format. They are located in Cloud Firebase's Storage platform. Fore security reasons Firebase Storage is not accessible via REST. You can read about Firebase Cloud Storage documentation [here](https://firebase.google.com/docs/storage).
 
 ### Firebase Cloud Storage Buckets
 * gs://ashp-pmi This is the bucket where all the monographs are stored. For example, if you have SCDF identifier: 601122, you can use the database API to find the ASHP UN identifer "601122" To get to the monograph file, you need to prepend the UN with the character 'a' to the bucket URL: `gs://ashp-pmi/a601122.htm`
