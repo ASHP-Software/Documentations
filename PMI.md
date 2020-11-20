@@ -6,13 +6,14 @@ The API uses Google's [Firebase](https://firebase.google.com/) platform to deliv
 
 You can read more about Firebase developer documentations [here](https://firebase.google.com/docs).
 
-## PMI Index
+## Routes
+
+You can build your https request using our Firebase Domain then 
 ---
 
 *Keep in mind that if you are making a REST API call, you need to append .json to the end of the route. You can find some sample API calls at the end of this document.*
 
 * **/PMI** - This route holds all the latest version of SCDF RXNorm mapping to ASHP's PMI data. The index of drugs are keyed by SCDF identifier.
-
 
 ## Objects
 ---
