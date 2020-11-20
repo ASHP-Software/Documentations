@@ -2,11 +2,11 @@
 ---
 ASHP's PMI API delivers drug information content in htm format using the globally accepted semantic clinical drug form (SCDF) RXNorm concept as indentifiers. 
 
-The API uses Google's [Firebase](https://firebase.google.com/) platform to deliver json data as well as files to you via RESTful http requests. We also leverage Google's Firebase platform to deliver lightning fast speed and flexible SDKs that cater to a variety of programming languages in functional reactive programming patterns.
+The API uses Google's [Firebase](https://firebase.google.com/) platform to deliver json data as well as files to you via Firebase SDKs. We also leverage Google's Firebase platform to deliver lightning fast speed and flexible SDKs that cater to a variety of programming languages in functional reactive programming patterns.
 
-You can read more about Firebase developer documentations [here](https://firebase.google.com/docs).
+Contact [us](softwaresupport@ashp.org) for API keys.
 
-Please contact us for API keys to access this data. 
+You can read more about Firebase developer documentations [here](https://firebase.google.com/docs). 
 
 **We ask that you only fetch data from this API to sync with your local database. Please do not directly integrate in your user facing applications.**
 
@@ -16,16 +16,16 @@ You can build your https request using our Firebase Domain then append it with a
 
 *Keep in mind that if you are making a REST API call, you need to append .json to the end of the route. You can find some sample API calls at the end of this document.*
 
-* **/PMI** - This route holds all the latest version of SCDF RXNorm mapping to ASHP's PMI data. The index of drugs are keyed by SCDF identifier.
+* **/PMI** - This route holds all the latest version of SCDF RXNorm mapping to ASHP's PMI data. The index of drugs is keyed by SCDF identifier.
 
 ## Objects
 ---
 ### PMI
-A drug shortage bulletin that holds all relevant information.
+The PMI object represents a mapping of SCDF to AHFS unique identifiers as well as the title and description of the PMI monograph file.
   * **UN**: String - This is ASHP's PMI unique identifier. You can use this identifier to fetch the monograph file from Firebase Storage.
   * **description**: String - This is the description of the PMI monograph for the SCDF concept. e.g. For SCDF key: 10760, the description is: "triamcinolone Oral Paste"
   * **title**: String - This is the title of the PMI monograph for the SCDF concept.
-  * **updatedAt**: Int This is the server time stamp when this record was last updated/written to Firebase. This integer represents the Linux Epoch time in milliseconds.
+  * **updatedAt**: Int - This is the server time stamp when this record was last updated/written to Firebase. This integer represents the Linux Epoch time in milliseconds.
   
 Sample response JSON for **PMI/10760**  
 You can obtain the above data via https://ahfs-pmi.firebaseio.com/PMI/10760.json?auth={apiKey}&print=pretty
