@@ -6,7 +6,9 @@ The API uses Google's [Firebase](https://firebase.google.com/) platform to deliv
 
 You can read more about Firebase developer documentations [here](https://firebase.google.com/docs).
 
-Please contact us for API keys to access this data. We ask that you only fetch data from this API to sync with your local database. Please do not directly integrate in your user facing applications. 
+Please contact us for API keys to access this data. 
+
+**We ask that you only fetch data from this API to sync with your local database. Please do not directly integrate in your user facing applications.**
 
 ## Routes
 ---
