@@ -37,7 +37,7 @@ You can obtain the above data via https://ahfs-pmi.firebaseio.com/PMI/10760.json
 }
 ```
 ### monograph
-A monograph object is the html content of a drug monograph keyed by their ASHP UN (unique identifer). You can get the UN from the /PMI index. *This is an experimental object because monograph files tend to reference .jpg images. You can only find the .jpg image files by using Firebase Cloud Storage.*
+A monograph object is the html content of a drug monograph keyed by their ASHP UN (unique identifer). You can get the UN from the /PMI index. *This is an experimental object because monograph files tend to reference .jpg images. You can only find the .jpg image files by using Firebase Cloud Storage.* See Monograph Files section for more information.
 
 
 ## Monograph Files
