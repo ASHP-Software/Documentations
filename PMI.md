@@ -15,7 +15,10 @@ You can build your https request using our Firebase Domain then append it with a
 *Keep in mind that if you are making a REST API call, you need to append .json to the end of the route. You can find some sample API calls at the end of this document.*
 
 * **/PMI** - This route holds all the latest version of SCDF RXNorm mapping to ASHP's PMI data. The index of drugs is keyed by SCDF identifier.
-* **/monographs** - Experimental: This route holds all the latest html string of monographs keyed by their ASHP UN (unique identifer). You can obtain the UN of a monograph from the /PMI route. *This is an experimental object because monograph files tend to reference .jpg images. You can only find the .jpg image files by using Firebase Cloud Storage.* See Monograph Files section for more information.
+* **/monographs** - Experimental: This route holds all the latest html and xml string of monographs keyed by their ASHP UN (unique identifer). You can obtain the UN of a monograph from the /PMI route. *This is an experimental object because monograph files tend to reference .jpg images. You can only find the .jpg image files by using Firebase Cloud Storage.* See Monograph Files section for more information.
+* **/monographs/xml/en** - English version of the XML files stored as String
+* **/monographs/xml/es** - Spanish version of the XML files stored as String
+* **/monographs/htm/en** - English version of the htm files stored as String
 
 ## Objects
 ---
