@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE dif SYSTEM "dif.dtd">
+<dif extraction-date="20200929">
+<hid>
+<!-- **********************************************************************
+     
+     All material distributed as part of ASHP Injectable Drug Information is copyrighted.
+     Reproduction, storage on a retrieval system, or transmission of this material
+     or any part thereof in any form or by any means without the express written
+     permission of the American Society of Health-System Pharmacists is
+     prohibited.
+     
+     Please contact ASHP Office of Publications at +1 (301) 657-3000
+     for more detailed information.
+     
+     (c) Copyright, 2020, American Society of Health-System 
+     Pharmacists, Inc. All Rights Reserved.
+     
+     ********************************************************************** -->
+<hid-mono unit-id="a504012" cpyrt-date="20041001" cx-date="20180416" mono-type="mono">
+<unit-num>504012</unit-num>
+<intro-info>
+<print-class><class-num class-code-ref="92:56" class-text="Protective Agents" /></print-class>
+<print-title>Dexrazoxane Hydrochloride</print-title>
+<full-title>Dexrazoxane Hydrochloride</full-title></intro-info>
+<products><head class="a-head">Products</head>
+<para>Dexrazoxane hydrochloride (Zinecard) is available as a lyophilized powder in single-dose vials containing the equivalent of 250 or 500 mg of dexrazoxane.<sup><a href="a586999.xml#r3392">3392</a></sup>  Reconstitution of the contents of the 250- or 500-mg Zinecard vial with 25 or 50 mL, respectively, of sterile water for injection results in a solution with a dexrazoxane concentration of 10 mg/mL.<sup><a href="a586999.xml#r3392">3392</a></sup>  The pH has been adjusted during manufacturing with hydrochloric acid.<sup><a href="a586999.xml#r3392">3392</a></sup>  The reconstituted solution should be diluted in an infusion bag with Ringer&#8217;s injection, lactated to a final dexrazoxane concentration of 1.3 to 3 mg/mL.<sup><a href="a586999.xml#r3392">3392</a></sup> </para>
+<para>Dexrazoxane hydrochloride (generic; Mylan) also is available as a lyophilized powder in single-use vials containing the equivalent of 250 or 500 mg of dexrazoxane.<sup><a href="a586999.xml#r3393">3393</a></sup>  Each vial is packaged with a 25- or 50-mL vial, respectively, of 0.167 M (i.e., (1/6) M) sodium lactate for use as a diluent for reconstituting the drug.<sup><a href="a586999.xml#r3393">3393</a></sup>  Reconstitution of the contents of the 250- or 500-mg vials with 25 or 50 mL, respectively, of the provided diluent results in a solution with a dexrazoxane concentration of 10 mg/mL.<sup><a href="a586999.xml#r3393">3393</a></sup>  The pH has been adjusted during manufacturing with hydrochloric acid.<sup><a href="a586999.xml#r3393">3393</a></sup>  The reconstituted solution may be transferred to an empty infusion bag or may be diluted in an infusion bag with sodium chloride 0.9% or dextrose 5% to a final dexrazoxane concentration of 1.3 to 5 mg/mL.<sup><a href="a586999.xml#r3393">3393</a></sup> </para>
+<para>Dexrazoxane hydrochloride (Totect) is available as a lyophilized powder in single-dose vials containing the equivalent of 500 mg of dexrazoxane.<sup><a href="a586999.xml#r3394">3394</a></sup>  Reconstitution of the contents of the 500-mg Totect vial with 50 mL of 0.167 M sodium lactate results in a solution with a dexrazoxane concentration of 10 mg/mL.<sup><a href="a586999.xml#r3394">3394</a></sup>  The resulting solution also contains hydrochloric acid, sodium hydroxide, and lactic acid in water for injection.<sup><a href="a586999.xml#r3394">3394</a></sup>  The appropriate volume of the reconstituted solution should be diluted in 1 L of sodium chloride 0.9%.<sup><a href="a586999.xml#r3394">3394</a></sup> </para>
+<sect><head class="b-head">pH</head>
+<para>The pH of reconstituted Zinecard solutions ranges from 1 to 3 while the pH of Zinecard diluted for infusion ranges from 3.5 to 5.5.<sup><a href="a586999.xml#r3392">3392</a></sup> </para>
+<para>The pH of reconstituted solutions of dexrazoxane (generic; Mylan) ranges from 3.5 to 5.5.<sup><a href="a586999.xml#r3393">3393</a></sup> </para></sect>
+<sect><head class="b-head">Trade Name(s)</head>
+<para><tn>Totect</tn>, <tn>Zinecard</tn></para></sect></products>
+<administration><head class="a-head">Administration</head>
+<para>Diluted solutions of Zinecard for infusion should be administered by rapid intravenous drip infusion over 15 minutes.<sup><a href="a586999.xml#r3392">3392</a></sup> </para>
+<para>The reconstituted solution of dexrazoxane (generic; Mylan) is administered by slow intravenous push; alternatively, the reconstituted solution may be diluted and administered by rapid intravenous drip infusion.<sup><a href="a586999.xml#r3393">3393</a></sup> </para>
+<para>Diluted solutions of Totect for infusion should be administered by intravenous infusion over 1 to 2 hours at room temperature and under normal light conditions into a large caliber vein in an extremity or area other than the one affected by the anthracycline extravasation.<sup><a href="a586999.xml#r3394">3394</a></sup>  Any cooling methods (e.g., ice packs) used for the extravasation being treated should be removed from the area at least 15 minutes prior to Totect administration.<sup><a href="a586999.xml#r3394">3394</a></sup> </para>
+<para>As with other toxic drugs, caution should be exercised in the handling and preparation of dexrazoxane and applicable special handling and disposal procedures should be followed.<sup><a href="a586999.xml#r3392">3392</a></sup> <sup><a href="a586999.xml#r3393">3393</a></sup> <sup><a href="a586999.xml#r3394">3394</a></sup>  Manufacturers recommend the use of gloves.<sup><a href="a586999.xml#r3392">3392</a></sup> <sup><a href="a586999.xml#r3393">3393</a></sup> <sup><a href="a586999.xml#r3394">3394</a></sup>  If skin contact with the drug occurs, the affected area(s) should be washed immediately and thoroughly with soap and water.<sup><a href="a586999.xml#r3392">3392</a></sup> <sup><a href="a586999.xml#r3393">3393</a></sup> <sup><a href="a586999.xml#r3394">3394</a></sup> </para></administration>
+<stability><head class="a-head">Stability</head>
+<para>Intact vials of dexrazoxane should be stored at controlled room temperature.<sup><a href="a586999.xml#r3392">3392</a></sup> <sup><a href="a586999.xml#r3393">3393</a></sup> <sup><a href="a586999.xml#r3394">3394</a></sup>  One manufacturer recommends that Totect vials remain in the original carton to protect from light.<sup><a href="a586999.xml#r3394">3394</a></sup> </para>
+<para>Reconstituted solutions of Zinecard are stable for 30 minutes at room temperature or for up to 3 hours at 2 to 8&#176;C.<sup><a href="a586999.xml#r3392">3392</a></sup>  Diluted solutions of Zinecard for infusion are stable for 1 hour at room temperature or for up to 4 hours at 2 to 8&#176;C.<sup><a href="a586999.xml#r3392">3392</a></sup> </para>
+<para>The manufacturer states that reconstituted solutions of dexrazoxane (generic; Mylan) are stable for 6 hours from the time of reconstitution when stored in an empty infusion bag at controlled room temperature of 20 to 25&#176;C or at 2 to 8&#176;C; this preparation of dexrazoxane diluted for infusion in sodium chloride 0.9% or dextrose 5% is stable for 6 hours at 20 to 25&#176;C or 2 to 8&#176;C.<sup><a href="a586999.xml#r3393">3393</a></sup> </para>
+<para>Reconstituted solutions of Totect should be diluted within 2 hours after reconstitution.<sup><a href="a586999.xml#r3394">3394</a></sup>  Diluted solutions of Totect for infusion should be used immediately after preparation, but are stable for 4 hours from the time of preparation when stored below 25&#176;C.<sup><a href="a586999.xml#r3394">3394</a></sup> </para>
+<para>Solutions should be visually inspected for particulate matter and discoloration prior to administration; solutions containing a precipitate should be discarded.<sup><a href="a586999.xml#r3392">3392</a></sup> <sup><a href="a586999.xml#r3393">3393</a></sup> <sup><a href="a586999.xml#r3394">3394</a></sup>  Any unused portions should be discarded.<sup><a href="a586999.xml#r3392">3392</a></sup> <sup><a href="a586999.xml#r3393">3393</a></sup> <sup><a href="a586999.xml#r3394">3394</a></sup> </para>
+<para>In one study, reconstituted solutions of dexrazoxane (National Cancer Institute) 10 mg/mL were found to be stable for about 24 hours at 20 to 22&#176;C exposed to or protected from fluorescent light; about 7% loss occurred when reconstituted with dextrose 5% and about 9% loss occurred when reconstituted with sodium chloride 0.9%.<sup><a href="a586999.xml#r2395">2395</a></sup>  Refrigeration resulted in precipitation after 1 day.<sup><a href="a586999.xml#r2395">2395</a></sup> </para>
+<para>In another study, reconstituted solutions of Zinecard 10 mg/mL prepared with sterile water for injection and dexrazoxane (generic; Mylan) prepared with 0.167 M sodium lactate were stable for 8 hours at room temperature; the reconstituted solutions exhibited a mean drug loss of 11 and 13%, respectively, at 24 hours.<sup><a href="a586999.xml#r3395">3395</a></sup> </para>
+<sect><head class="b-head">pH Effects</head>
+<para>Dexrazoxane is most stable at acidic pH and is highly unstable in alkaline solutions.<sup><a href="a586999.xml#r2395">2395</a></sup>  Dexrazoxane degrades rapidly at pH values above 7;<sup><a href="a586999.xml#r3392">3392</a></sup> <sup><a href="a586999.xml#r3393">3393</a></sup>  more than 10% loss occurred in less than 2 hours at such pH values.<sup><a href="a586999.xml#r2395">2395</a></sup> </para></sect>
+<sect><head class="b-head">Light Effects</head>
+<para>No adverse effect on drug stability was found in 1- and 10-mg/mL solutions when exposed to fluorescent light.<sup><a href="a586999.xml#r2395">2395</a></sup> </para></sect></stability>
+<compatibility><head class="a-head">Compatibility Information</head>
+<solution-compat><head class="b-head">Solution Compatibility</head>
+<table frame="topbot"><head>Dexrazoxane HCl</head>
+<tgroup cols="7" colsep="0" rowsep="0" align="left">
+<colspec colnum="1" colname="col1" colwidth="2*" />
+<colspec colnum="2" colname="col2" colwidth="1*" />
+<colspec colnum="3" colname="col3" colwidth="1*" />
+<colspec colnum="4" colname="col4" colwidth="1*" />
+<colspec colnum="5" colname="col5" colwidth="3*" />
+<colspec colnum="6" colname="col6" colwidth="1*" />
+<colspec colnum="7" colname="col7" colwidth="1*" />
+<thead>
+<row rowsep="1" valign="bottom"><entry colname="col1"><para>Test Soln Name</para></entry><entry colname="col2"><para>Test Soln Mfr</para></entry><entry colname="col3"><para>Base Drug Mfr</para></entry><entry colname="col4"><para>Base Drug Conc/L or %</para></entry><entry colname="col5"><para>Remarks</para></entry><entry colname="col6"><para>Refs</para></entry><entry colname="col7"><para>Compat</para></entry></row></thead>
+<tbody>
+<row valign="top"><entry colname="col1"><para>Dextrose 5%</para></entry><entry colname="col2"><para></para></entry><entry colname="col3"><para>MYL</para></entry>
+<entry colname="col4"><para>1.3 to 5 g</para></entry><entry colname="col5"><para>Stable for 6 hr at room temperature or 2 to 8&#176;C</para></entry><entry colname="col6"><para><sup><a href="a586999.xml#r3393">3393</a></sup> </para></entry>
+<entry colname="col7"><para>C</para></entry></row>
+<row valign="top"><entry colname="col1"><para>Dextrose 5%</para></entry><entry colname="col2"><para><a href="#sol-f1"><sup>a</sup></a> </para></entry><entry colname="col3"><para>NCI</para></entry>
+<entry colname="col4"><para>1 g</para></entry><entry colname="col5"><para>Visually compatible with less than 10% loss in 24 hr at 21&#176;C exposed to and protected from light and in 3 days at 4&#176;C in the dark</para></entry><entry colname="col6"><para><sup><a href="a586999.xml#r2395">2395</a></sup> </para></entry>
+<entry colname="col7"><para>C</para></entry></row>
+<row valign="top"><entry colname="col1"><para>Dextrose 5%</para></entry><entry colname="col2"><para>BA<a href="#sol-f2"><sup>b</sup></a> </para></entry><entry colname="col3"><para>MYL</para></entry>
+<entry colname="col4"><para>1 g</para></entry><entry colname="col5"><para>Physically and chemically stable with 8.9% loss in 24 hr at room temperature</para></entry><entry colname="col6"><para><sup><a href="a586999.xml#r3395">3395</a></sup> </para></entry>
+<entry colname="col7"><para>C</para></entry></row>
+<row valign="top"><entry colname="col1"><para>Dextrose 5%</para></entry><entry colname="col2"><para>BA<a href="#sol-f2"><sup>b</sup></a> </para></entry><entry colname="col3"><para>MYL</para></entry>
+<entry colname="col4"><para>3 g</para></entry><entry colname="col5"><para>Physically and chemically stable with 4.9% loss in 8 hr at room temperature</para></entry><entry colname="col6"><para><sup><a href="a586999.xml#r3395">3395</a></sup> </para></entry>
+<entry colname="col7"><para>C</para></entry></row>
+<row valign="top"><entry colname="col1"><para>Ringer&#8217;s injection, lactated</para></entry><entry colname="col2"><para></para></entry><entry colname="col3"><para>PF</para></entry>
+<entry colname="col4"><para>1.3 to 3 g</para></entry><entry colname="col5"><para>Stable for 1 hr at room temperature or 4 hr at 2 to 8&#176;C</para></entry><entry colname="col6"><para><sup><a href="a586999.xml#r3392">3392</a></sup> </para></entry>
+<entry colname="col7"><para>C</para></entry></row>
+<row valign="top"><entry colname="col1"><para>Ringer&#8217;s injection, lactated</para></entry><entry colname="col2"><para>BA<a href="#sol-f2"><sup>b</sup></a> </para></entry><entry colname="col3"><para>PF</para></entry>
+<entry colname="col4"><para>1 and 3 g</para></entry><entry colname="col5"><para>Physically and chemically stable with less than 5% loss in 8 hr at room temperature</para></entry><entry colname="col6"><para><sup><a href="a586999.xml#r3395">3395</a></sup> </para></entry>
+<entry colname="col7"><para>C</para></entry></row>
+<row valign="top"><entry colname="col1"><para>Sodium chloride 0.9%</para></entry><entry colname="col2"><para></para></entry><entry colname="col3"><para>MYL</para></entry>
+<entry colname="col4"><para>1.3 to 5 g</para></entry><entry colname="col5"><para>Stable for 6 hr at room temperature or 2 to 8&#176;C</para></entry><entry colname="col6"><para><sup><a href="a586999.xml#r3393">3393</a></sup> </para></entry>
+<entry colname="col7"><para>C</para></entry></row>
+<row valign="top"><entry colname="col1"><para>Sodium chloride 0.9%</para></entry><entry colname="col2"><para><a href="#sol-f1"><sup>a</sup></a> </para></entry><entry colname="col3"><para>NCI</para></entry>
+<entry colname="col4"><para>1 g</para></entry><entry colname="col5"><para>Visually compatible with less than 10% loss in 24 hr at 21&#176;C exposed to and protected from light and in 3 days at 4&#176;C in the dark</para></entry><entry colname="col6"><para><sup><a href="a586999.xml#r2395">2395</a></sup> </para></entry>
+<entry colname="col7"><para>C</para></entry></row>
+<row valign="top"><entry colname="col1"><para>Sodium chloride 0.9%</para></entry><entry colname="col2"><para>BA<a href="#sol-f2"><sup>b</sup></a> </para></entry><entry colname="col3"><para>MYL</para></entry>
+<entry colname="col4"><para>1 g</para></entry><entry colname="col5"><para>Physically and chemically stable with 9.2% loss in 24 hr at room temperature</para></entry><entry colname="col6"><para><sup><a href="a586999.xml#r3395">3395</a></sup> </para></entry>
+<entry colname="col7"><para>C</para></entry></row>
+<row valign="top"><entry colname="col1"><para>Sodium chloride 0.9%</para></entry><entry colname="col2"><para>BA<a href="#sol-f2"><sup>b</sup></a> </para></entry><entry colname="col3"><para>MYL</para></entry>
+<entry colname="col4"><para>3 g</para></entry><entry colname="col5"><para>Physically and chemically stable with 4.2% loss in 8 hr at room temperature</para></entry><entry colname="col6"><para><sup><a href="a586999.xml#r3395">3395</a></sup> </para></entry>
+<entry colname="col7"><para>C</para></entry></row>
+<row valign="top"><entry colname="col1"><para>Sodium chloride 0.9%</para></entry><entry colname="col2"><para></para></entry><entry colname="col3"><para>CMB</para></entry><entry colname="col4"></entry><entry colname="col5"><para>Stable for 4 hr at temperatures less than 25&#176;C</para></entry><entry colname="col6"><para><sup><a href="a586999.xml#r3394">3394</a></sup> </para></entry>
+<entry colname="col7"><para>C</para></entry></row></tbody></tgroup></table>
+<table frame="bottom">
+<tgroup cols="1" colsep="0" rowsep="0" align="left">
+<colspec colnum="1" colname="col1" colwidth="*" /><tbody>
+<row valign="top"><entry colname="col1"><para><a name="sol-f1"></a><sup>a</sup> Tested in both glass and PVC containers.</para>
+<para><a name="sol-f2"></a><sup>b</sup> Tested in PVC containers.</para></entry></row></tbody></tgroup></table></solution-compat>
+<y-site-inj-compat><head class="b-head">Y-Site Injection Compatibility (1:1 Mixture)</head>
+<table frame="topbot"><head>Dexrazoxane HCl</head>
+<tgroup cols="8" colsep="0" rowsep="0" align="left">
+<colspec colnum="1" colname="col1" colwidth="2*" />
+<colspec colnum="2" colname="col2" colwidth="1*" />
+<colspec colnum="3" colname="col3" colwidth="1*" />
+<colspec colnum="4" colname="col4" colwidth="1*" />
+<colspec colnum="5" colname="col5" colwidth="1*" />
+<colspec colnum="6" colname="col6" colwidth="3*" />
+<colspec colnum="7" colname="col7" colwidth="1*" />
+<colspec colnum="8" colname="col8" colwidth="1*" />
+<thead>
+<row rowsep="1" valign="bottom"><entry colname="col1"><para>Test Drug</para></entry><entry colname="col2"><para>Test Drug Mfr</para></entry><entry colname="col3"><para>Test Drug Conc</para></entry><entry colname="col4"><para>Base Drug Mfr</para></entry><entry colname="col5"><para>Base Drug Conc</para></entry><entry colname="col6"><para>Remarks</para></entry><entry colname="col7"><para>Refs</para></entry><entry colname="col8"><para>Compat</para></entry></row></thead>
+<tbody>
+<row valign="top"><entry colname="col1"><para>Gemcitabine HCl</para></entry><entry colname="col2"><para>LI</para></entry>
+<entry colname="col3"><para>10 mg/mL<a href="#y-si-f2"><sup>b</sup></a> </para></entry><entry colname="col4"><para>PH</para></entry>
+<entry colname="col5"><para>5 mg/mL<a href="#y-si-f2"><sup>b</sup></a> </para></entry><entry colname="col6"><para>Physically compatible for 4 hr at 23&#176;C</para></entry><entry colname="col7"><para><sup><a href="a586999.xml#r2226">2226</a></sup> </para></entry>
+<entry colname="col8"><para>C</para></entry></row>
+<row valign="top"><entry colname="col1"><para>Pemetrexed disodium</para></entry><entry colname="col2"><para>LI</para></entry>
+<entry colname="col3"><para>20 mg/mL<a href="#y-si-f2"><sup>b</sup></a> </para></entry><entry colname="col4"><para>PHU</para></entry>
+<entry colname="col5"><para>5 mg/mL<a href="#y-si-f1"><sup>a</sup></a> </para></entry><entry colname="col6"><para>Physically compatible for 4 hr at 23&#176;C</para></entry><entry colname="col7"><para><sup><a href="a586999.xml#r2564">2564</a></sup> </para></entry>
+<entry colname="col8"><para>C</para></entry></row></tbody></tgroup></table>
+<table frame="bottom">
+<tgroup cols="1" colsep="0" rowsep="0" align="left">
+<colspec colnum="1" colname="col1" colwidth="*" /><tbody>
+<row valign="top"><entry colname="col1"><para><a name="y-si-f1"></a><sup>a</sup> Tested in dextrose 5%.</para>
+<para><a name="y-si-f2"></a><sup>b</sup> Tested in sodium chloride 0.9%.</para></entry></row></tbody></tgroup></table></y-site-inj-compat></compatibility>
+<copyright><para>ASHP<sup>&#174;</sup> Injectable Drug Information<sup>TM</sup>. Selected Revisions April 16, 2018. &#169; Copyright, 2020. American Society of Health-System Pharmacists<sup>&#174;</sup>, 4500 East-West Highway, Suite 900, Bethesda, Maryland 20814.</para></copyright>
+<refs><head class="a-head">References</head>
+<para><xref-external href="a586999.xml">For a list of references cited in the text of this monograph, search the monograph titled <ital>References</ital>.</xref-external></para></refs></hid-mono></hid></dif>
